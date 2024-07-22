@@ -1,7 +1,7 @@
 Practice
 ========
 
-### These practice exercises are provided to you to prepare for USF's CS 514 class over the summer.
+### Practice exercises to prepare for USF's CS 514 class
 
 In this set of practice problems, you'll practice using the following:
 
@@ -17,13 +17,13 @@ The skeleton code for these problems is at the following link: https://github.co
 
 ### Overview
 
-The goal of this set of practice problems is to help you prepare for CS 514 over the summer. It is a fast paced class, and incoming students are expected to know the basics of programming such as methods, loops, conditionals, and arrays before starting the class. If you took an intro programming class in another programming language, you should still be able to do these problems after reviewing basic Java syntax. The provided exercises are not meant to demonstrate good object-oriented design; their main purpose is to allow students to practice working with arrays, loops and conditionals. 
+The goal of this set of practice problems is to help you prepare for CS 514 at USF. CS514 is a fast paced class, and incoming students are expected to know the basics of programming such as methods, loops, conditionals, and arrays before starting the class. If you took an intro programming class in another programming language, these problems will help you learn Java syntax. The provided exercises are not meant to demonstrate good object-oriented design; their main purpose is to allow you to practice working with fundamental code: arrays, loops and conditionals. 
 
-If you find yourself struggling with these problems, please consider completing an online Java course or carefully going through an introductory Java textbook *and* completing the programming exercises. Though there may be partial or complete solutions to some of these questions on various sites like StackOverflow, it is expected that you solve these problems *without* using the Internet as a resource. 
+If you find yourself struggling with these problems, please consider completing an online Java course or carefully going through an introductory Java textbook *and* completing the programming exercises. 
 
 ### Getting Started
 We will be using IntelliJ and Github in cs514.
-IntelliJ is an Integrated Development Environment (IDE). IDE is a piece of software that makes developing code easier: it contains an editor that provides clever code completion,  a debugger, refactoring tools, and build automation tools.
+IntelliJ is an Integrated Development Environment (IDE). An IDE is a software that makes developing code easier: it contains an editor that provides clever code completion,  a debugger, refactoring tools, and build automation tools.
 
 1. Download [IntelliJ here]https://www.jetbrains.com/idea/download/). Select the Community edition (it's free).
 2. Download [Java here](http://www.oracle.com/technetwork/java/javase/downloads/index.html) You need the JDK (Java SE Development Kit).
