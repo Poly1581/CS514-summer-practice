@@ -29,7 +29,13 @@ public class MathHelper {
      * @return true if these lines segments can form a triangle, and false otherwise
      */
     public static boolean validTriangle(int a, int b, int c) {
-        //TODO: Replace with your code.
+        if(a + b > c) {
+            return true;
+        } else if(a + c > b) {
+            return true;
+        } else if(b + c > a) {
+            return true;
+        }
         return false;
     }
 
