@@ -15,8 +15,7 @@ public class ConversionsHelper {
      * @return
      */
     public static double ouncesToGallons(int ounces) {
-        //TODO: Replace with your code.
-        return 0;
+        return (double) ounces / 128;
     }
 
     /**
