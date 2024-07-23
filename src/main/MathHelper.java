@@ -8,8 +8,14 @@ public class MathHelper {
      * @return sum of elements from 1 to n
      */
     public static int arithmeticSeries(int n) {
-        //TODO: Replace with your code.
-        return 0;
+//        //Version 1 - looping
+//        int sum = 0;
+//        for(int i = 1; i <= n; i++) {
+//            sum += i;
+//        }
+//        return sum;
+        //Version 2 - formula
+        return ((n+1) * n) / 2;
     }
 
 
