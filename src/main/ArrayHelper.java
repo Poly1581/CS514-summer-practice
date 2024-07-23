@@ -48,8 +48,19 @@ public class ArrayHelper {
      * @return product of all elements
      */
     public static int product(int[] arr) {
-        //TODO: Replace with your code.
-        return 1;
+        int prod = 1;
+
+//        //Version 1 - loop with index
+//        for(int i = 0; i < arr.length; i++) {
+//            prod *= arr[i];
+//        }
+
+        //Version 2 - loop with for in
+        for(int num : arr) {
+            prod *= num;
+        }
+
+        return prod;
     }
 
     /**
