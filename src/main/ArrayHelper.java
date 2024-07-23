@@ -10,7 +10,15 @@ public class ArrayHelper {
      * @param arr array of integers
      */
     public static void print(int[] arr) {
-        //TODO: Replace with your code.
+//        //Version 1 - loop with index
+//        for(int i = 0; i < arr.length; i++) {
+//            System.out.println(arr[i]);
+//        }
+
+        //Version 2 - loop with for in
+        for(int num : arr) {
+            System.out.println(num);
+        }
     }
 
     /** Returns the sum of all elements of the array
@@ -19,8 +27,19 @@ public class ArrayHelper {
      * @return sum of elements
      */
     public static int sum(int[] arr) {
-        //TODO: Replace with your code.
-        return 0;
+        int sum = 0;
+
+//        //Version 1 - loop with index
+//        for(int i = 0; i < arr.length; i++) {
+//            sum += arr[i];
+//        }
+
+        //Version 2 - loop with for in
+        for(int num : arr) {
+            sum += num;
+        }
+
+        return sum;
     }
 
     /** Returns the product of all elements of the array

@@ -14,6 +14,7 @@ public class MathHelper {
 //            sum += i;
 //        }
 //        return sum;
+
         //Version 2 - formula
         return ((n+1) * n) / 2;
     }
