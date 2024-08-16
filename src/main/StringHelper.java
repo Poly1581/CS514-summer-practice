@@ -10,8 +10,16 @@ public class StringHelper {
      * @return the number of vowels
      */
     public static int countVowels(String message) {
-        //TODO: Replace with your code.
-        return 0;
+        int count = 0;
+        char[] vowels = {'a', 'e', 'i', 'o', 'u'};
+        for(int i = 0; i < message.length(); i++) {
+            for (char v : vowels) {
+                if (message.charAt(i) == v) {
+                    count++;
+                }
+            }
+        }
+        return count;
     }
 
     /**
