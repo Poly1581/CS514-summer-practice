@@ -88,7 +88,11 @@ public class ArrayHelper {
      * @return
      */
     public static boolean find(int[] arr, int elem) {
-        //TODO: Replace with your code.
+        for(int num : arr) {
+            if(num == elem) {
+                return true;
+            }
+        }
         return false;
     }
 
