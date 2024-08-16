@@ -71,8 +71,12 @@ public class ArrayHelper {
      * @return
      */
     public static boolean threshold(int[] arr, int thres) {
-        //TODO: Replace with your code.
-        return false;
+        for(int num : arr) {
+            if(num >= thres) {
+                return false;
+            }
+        }
+        return true;
     }
 
     /** Returns true if elem is present in the array and false otherwise
