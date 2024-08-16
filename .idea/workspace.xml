@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4050d0fb-88ca-40f7-a369-18b0dc8ce70f" name="Changes" comment="Completed ArrayHelper.sum.">
-      <change beforePath="$PROJECT_DIR$/out/production/practiceCS514/main/ArrayHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practiceCS514/main/ArrayHelper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/ArrayHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ArrayHelper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,37 +15,37 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Poly1581"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Poly1581&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Poly1581/CS514-summer-practice.git",
-    "accountId": "e3c115f2-814c-41e6-9050-566991c909ba"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Poly1581/CS514-summer-practice.git&quot;,
+    &quot;accountId&quot;: &quot;e3c115f2-814c-41e6-9050-566991c909ba&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2jfO4F2EKl39mhFgVzAxSgnDcgT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayHelper.executor": "Run",
-    "Application.ConversionsHelper.executor": "Run",
-    "Application.MathHelper.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayHelper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConversionsHelper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MathHelper.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
