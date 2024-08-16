@@ -122,6 +122,14 @@ public class ArrayHelper {
      * @return true if array has duplicates and false otherwise
      */
     public static boolean hasDuplicates(int[] arr) {
+        //Inefficient implementation - use hash tables to keep track of previous values with O(1) lookup instaead.
+        for(int i = 0; i < arr.length; i++) {
+            for(int j = 0; j < arr.length; j++) {
+                if(arr[i] == arr[j]) {
+                    return true;
+                }
+            }
+        }
         return false;
     }
 
