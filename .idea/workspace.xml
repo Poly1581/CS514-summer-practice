@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4050d0fb-88ca-40f7-a369-18b0dc8ce70f" name="Changes" comment="Completed ArrayHelper.hasDuplicates.">
-      <change beforePath="$PROJECT_DIR$/out/production/practiceCS514/main/ArrayHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practiceCS514/main/StringHelper.class" beforeDir="false" />
+    <list default="true" id="4050d0fb-88ca-40f7-a369-18b0dc8ce70f" name="Changes" comment="Completed StringHelper.countVowels.">
       <change beforePath="$PROJECT_DIR$/src/main/StringHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/StringHelper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723834580404</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Completed StringHelper.countVowels.">
+      <option name="closed" value="true" />
+      <created>1723834895888</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1723834895888</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +176,7 @@
     <MESSAGE value="Completed ArrayHelper.find." />
     <MESSAGE value="Completed ArrayHelper.countOccurrences." />
     <MESSAGE value="Completed ArrayHelper.hasDuplicates." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed ArrayHelper.hasDuplicates." />
+    <MESSAGE value="Completed StringHelper.countVowels." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed StringHelper.countVowels." />
   </component>
 </project>

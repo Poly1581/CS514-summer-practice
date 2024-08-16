@@ -39,8 +39,13 @@ public class StringHelper {
      * @author Prof. Rollins
      */
     public static String encrypt(String message, int shift) {
-        //TODO: Replace with your code.
-        return null;
+        String encrypted = "";
+        for(int i = 0; i < message.length(); i++) {
+            char c = message.charAt(i);
+            char e = (char) ((int) 'a' + (((int) c) - ((int) 'a') + shift % 26));
+            encrypted += e;
+        }
+        return encrypted;
     }
 
     /** Main method: runs methods of class StringHelper */
