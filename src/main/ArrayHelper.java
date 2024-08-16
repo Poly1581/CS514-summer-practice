@@ -103,8 +103,13 @@ public class ArrayHelper {
      * @return
      */
     public static int countOccurrences(int[] arr, int elem) {
-        //TODO: Replace with your code.
-        return 0;
+        int count = 0;
+        for(int num : arr) {
+            if(num == elem) {
+                count++;
+            }
+        }
+        return count;
     }
 
     /** Returns true if array of integers has duplicate elements,
